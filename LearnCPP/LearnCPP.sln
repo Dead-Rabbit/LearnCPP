@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter_3", "Chapter_3\Chapter_3.vcxproj", "{0E353B0B-A4CE-414B-9898-A9D9C946F9F0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GenerateOrg", "GenerateOrg\GenerateOrg.vcxproj", "{934F8B58-B89B-434E-B2FD-934981631E1B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter_4", "Chapter_4\Chapter_4.vcxproj", "{C3FA5A50-9690-4900-BA69-BDFBFB43BB13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -18,5 +22,21 @@ Global
 		{0E353B0B-A4CE-414B-9898-A9D9C946F9F0}.Release|Win32.Build.0 = Release|Win32
 		{0E353B0B-A4CE-414B-9898-A9D9C946F9F0}.Release|x64.ActiveCfg = Release|x64
 		{0E353B0B-A4CE-414B-9898-A9D9C946F9F0}.Release|x64.Build.0 = Release|x64
+		{934F8B58-B89B-434E-B2FD-934981631E1B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{934F8B58-B89B-434E-B2FD-934981631E1B}.Debug|Win32.Build.0 = Debug|Win32
+		{934F8B58-B89B-434E-B2FD-934981631E1B}.Debug|x64.ActiveCfg = Debug|x64
+		{934F8B58-B89B-434E-B2FD-934981631E1B}.Debug|x64.Build.0 = Debug|x64
+		{934F8B58-B89B-434E-B2FD-934981631E1B}.Release|Win32.ActiveCfg = Release|Win32
+		{934F8B58-B89B-434E-B2FD-934981631E1B}.Release|Win32.Build.0 = Release|Win32
+		{934F8B58-B89B-434E-B2FD-934981631E1B}.Release|x64.ActiveCfg = Release|x64
+		{934F8B58-B89B-434E-B2FD-934981631E1B}.Release|x64.Build.0 = Release|x64
+		{C3FA5A50-9690-4900-BA69-BDFBFB43BB13}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C3FA5A50-9690-4900-BA69-BDFBFB43BB13}.Debug|Win32.Build.0 = Debug|Win32
+		{C3FA5A50-9690-4900-BA69-BDFBFB43BB13}.Debug|x64.ActiveCfg = Debug|x64
+		{C3FA5A50-9690-4900-BA69-BDFBFB43BB13}.Debug|x64.Build.0 = Debug|x64
+		{C3FA5A50-9690-4900-BA69-BDFBFB43BB13}.Release|Win32.ActiveCfg = Release|Win32
+		{C3FA5A50-9690-4900-BA69-BDFBFB43BB13}.Release|Win32.Build.0 = Release|Win32
+		{C3FA5A50-9690-4900-BA69-BDFBFB43BB13}.Release|x64.ActiveCfg = Release|x64
+		{C3FA5A50-9690-4900-BA69-BDFBFB43BB13}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal

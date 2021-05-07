@@ -1,10 +1,11 @@
 #include <iostream>
-#include <stdio.h>
-
 using namespace std;
 
-int main(int argc, char* argv[])
-{
-    cout << "Hello World !" << endl;
+int main() {
+    int a = 99;
+    int &r = a;
+    cout << a << ", " << r << endl;
+    cout << &a << ", " << &r << endl;
+
     return 0;
 }
